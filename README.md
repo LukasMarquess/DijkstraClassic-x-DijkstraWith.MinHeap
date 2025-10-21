@@ -79,8 +79,8 @@ Além disso, o projeto mede o tempo de execução e as emissões de CO2 geradas 
 - [Pandas Documentation](https://pandas.pydata.org/docs/) - Guia completo do Pandas
 - [Matplotlib Documentation](https://matplotlib.org/stable/index.html) - Documentação e exemplos do Matplotlib
 - [CodeCarbon GitHub](https://github.com/mlco2/codecarbon) - Repositório oficial do CodeCarbon (rastreio de emissões)
-- [random — Gerador de números pseudoaleatórios](https://docs.python.org/3/library/random.html) - Gera sequências e números aleatórios
-- [time — Funções de tempo](https://docs.python.org/3/library/time.html) - Medição de tempo 
+- [Random](https://docs.python.org/3/library/random.html) - Gerador de números pseudoaleatório
+- [Time](https://docs.python.org/3/library/time.html) — Funções de tempo
 
 ### 📊 Teoria dos Grafos / Tutoriais
 - [Graph Theory Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/graph_theory/index.htm) - Tutorial básico de teoria dos grafos
