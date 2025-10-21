@@ -49,11 +49,11 @@ Além disso, o projeto mede o tempo de execução e as emissões de CO2 geradas 
 - **NetworkX** - Manipulação e análise de grafos
 - **Pandas** - Processamento de dados
 - **Matplotlib** - Visualização de grafos 2D
-- **Gemini 2.5** - Intelingência Artifical
-- **CopilotPRO** - Intelingência Artifical
 - **Random** - Sequência e números aleatórios
 - **Times** - Trabalhar com tempo
 - **Codecarbon** - Rastrear e estimar o consumo de dióxido de carbono(CO2)
+- **Gemini 2.5** - Intelingência Artifical
+- **CopilotPRO** - Intelingência Artifical
 
 ---
 
