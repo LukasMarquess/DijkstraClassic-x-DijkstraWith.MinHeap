@@ -1,11 +1,11 @@
-# Algoritmos e Estruturas de Dados 2 - Trabalho 2
+# Dijkstra Clássico x Dijkstra com Min-Heap
 
 ## 📋 Descrição do Projeto
 Este projeto implementa e compara o desempenho de diferentes algoritmos para encontrar o caminho mais curto em grafos ponderados. Os algoritmos utilizados incluem:
 
 - **Dijkstra**: Implementação tradicional com complexidade $O(V^2 + E)$.
 - **Dijkstra com Min-Heap**: Versão otimizada utilizando uma estrutura de dados Min-Heap, com complexidade $O((V + E) \cdot \log(V))$.
-- **Bellman-Ford (NetworkX)**: Implementação de referência utilizando a biblioteca `networkx`.
+- **Shortest_path (NetworkX)**: Implementação de referência utilizando a biblioteca `networkx`.
 
 Além disso, o projeto mede o tempo de execução e as emissões de CO2 geradas por cada algoritmo, utilizando a biblioteca `codecarbon`.
 
@@ -24,7 +24,7 @@ Além disso, o projeto mede o tempo de execução e as emissões de CO2 geradas 
 ### 3. **Implementação dos Algoritmos**
 - **Dijkstra**: Implementação básica com listas.
 - **Dijkstra com Min-Heap**: Utiliza uma estrutura de dados Min-Heap para otimização.
-- **Bellman-Ford**: Implementação de referência utilizando a função `single_source_bellman_ford_path_length` da biblioteca `networkx`.
+- **Shortest_path**: Implementação de referência utilizando a função `shortest_path` da biblioteca `networkx`.
 
 ### 4. **Medição de Desempenho**
 - Para cada algoritmo, são medidos:
