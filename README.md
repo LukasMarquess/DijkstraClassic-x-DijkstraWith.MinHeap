@@ -106,4 +106,4 @@ Este projeto foi desenvolvido para fins acadêmicos como parte da disciplina de 
 
 ## 👥 Autor
 
-- Lucas Marques e Leonardo Cavalcanti.
+- Lucas Marques e Leonardo Cavalcanti
